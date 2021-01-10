@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c535525-95b1-4318-8e1c-c6f278e17f8e" name="Default Changelist" comment="" />
+    <list default="true" id="7c535525-95b1-4318-8e1c-c6f278e17f8e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/SynAndAsy/SynchronizedTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="756">
+              <caret line="36" column="48" lean-forward="true" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -70,6 +72,7 @@
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -99,24 +102,6 @@
             <path>
               <item name="Multithread" type="b2602c69:ProjectViewProjectNode" />
               <item name="Multithread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Multithread" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Multithread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Multithread" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Multithread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Multithread" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Multithread" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SynchronizedTest">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.itcast.Demo1" />
       <module name="Multithread" />
@@ -190,8 +175,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.ThreadTest" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.Test" />
       <module name="Multithread" />
       <extension name="coverage">
         <pattern>
@@ -218,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.SynchronizedTest" />
         <item itemvalue="Application.Demo1" />
         <item itemvalue="Application.MyThread" />
         <item itemvalue="Application.demo" />
-        <item itemvalue="Application.ThreadTest" />
       </list>
     </recent_temporary>
   </component>
@@ -237,16 +222,23 @@
       <option name="presentableId" value="Default" />
       <updated>1607864230254</updated>
       <workItem from="1607864233053" duration="9623000" />
-      <workItem from="1610279683737" duration="2122000" />
+      <workItem from="1610279683737" duration="2533000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1610281879129</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610281879129</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11745000" />
+    <option name="totallyTimeSpent" value="12156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17537314" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -284,6 +276,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
@@ -331,8 +325,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SynAndAsy/SynchronizedTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="756">
+          <caret line="36" column="48" lean-forward="true" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
         </state>
       </provider>
     </entry>
